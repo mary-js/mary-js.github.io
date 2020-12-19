@@ -1,0 +1,137 @@
+.topimage {
+    background-image: url('https://cdn.livingintravels.com/i/posts/26276/preview/po-mneniyu-ekspertov-puteshestviya-s-detmi-uskoryayut-ikh-razvitie-26301-1x.jpg');
+  	align-content: center;
+  	padding: 50px;
+    left-margin: 100px;
+    right-margin: 100px;
+    background-size: contain;
+    width: 150%;
+    height: 280px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+    top: 0;
+
+}
+.topstroka {
+    font-size: large;
+    display: flex;
+    justify-content: space-between;
+    width: 99%;
+    height: 50px;
+    color: #C39024;
+    margin: 15px;
+}
+.bottom {
+    text-align: center;
+    display: inline-block;
+    margin: 15px;
+    width: 250px;
+    background: #babcff;
+}
+
+.bottom1 {
+    display: inline-block;
+    background: #babcff;
+
+    
+    width: 300px;
+    margin: 10px;
+}
+.bottom2 {
+    display: inline-block;
+    background: #babcff;
+    width: 100px;
+    
+    width: 300px;
+    margin: 10px;
+}
+.bottom:hover{
+
+	color: #C19660;
+	background-color:#babcff; 
+}
+.bottom1:hover{
+
+	color: #C19660;
+	background-color:#babcff; 
+}
+.bottom2:hover{
+
+	color: #C19660;
+	background-color:#babcff; 
+}
+
+}
+.subtitle {
+ 
+    text-align: center;
+    font-size: large;
+}
+
+
+.d1 {
+	
+    background: #babcff;
+    width: 70%;
+    
+
+    color: white;
+    height: 300px;
+    padding: 10px;
+    margin: 20px 0px 80px 75px;
+    box-shadow: 20px 20px 20px 16px #C19660;
+    display: inline-block;
+}
+.d1:hover{
+
+	color: #C19660;
+	background-color:#babcff; 
+}
+.subtitle{
+   
+    text-align: center;
+    font-size: large;
+}
+.image1{
+	height: 75px;
+	width: 500px;
+    float: left;
+    height: 300px;
+    margin-right: 15px;
+	background-image: url('https://profile.ru/wp-content/uploads/2020/05/shutterstock_1479138221.jpg');
+	
+}
+.image2{ height: 75px;
+	width: 500px;
+	float: left;
+    height: 300px;
+    margin-right: 15px;
+    background-image: url('https://www.begonija.lv/i/country_resort_image_thumbnail/resorts/Depositphotos_4934551_original-Egypt-s_1.jpg');
+	
+}
+.image3{height: 75px;
+	width: 500px;
+ 	float: left;
+    height: 300px;
+    margin-right: 15px;
+    background-image: url('https://i.ytimg.com/vi/GeGRBGDsSDw/maxresdefault.jpg');
+
+}
+
+.questions {
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.content {
+    margin-left: 500px;
+}
+
+.stroka {
+    margin-left: 100px;
+}
